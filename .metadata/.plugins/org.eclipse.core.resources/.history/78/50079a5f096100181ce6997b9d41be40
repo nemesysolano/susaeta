@@ -1,0 +1,22 @@
+package com.nemesys.crypt;
+
+import org.junit.Test;
+
+public class AESEncryptorTest {
+	String json = AESEncryptorParams.createAsJSON("A00he8$DOG#");
+	AESEncryptorParams params = AESEncryptorParams.createFromJSON(json);
+	byte[] source = "The quick fox jumps over the lazy job".getBytes();
+	
+	/**
+	 * Validates that UTF-8 strings are encrypted/decripted.
+	 */
+	@Test	
+	public void encryptBytes( ) {
+		byte[] encrypted = AESEncryptor.encrypt(params, source);
+		byte[] decrypted = AESEncryptor.decrypt(params, encrypted);
+		
+		assert(new String(source)).compareTo(new String(decrypted)) == 0;		
+		System.out.println(json);
+	}
+}
+ 

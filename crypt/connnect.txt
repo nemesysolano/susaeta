@@ -1,0 +1,2 @@
+git remote add origin https://rafael-solano@bitbucket.org/rafael-solano/crypt.git
+git push -u origin master

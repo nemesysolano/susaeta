@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.nemesys.crypt.AESEncryptorParams"/>
+<fullyQualifiedTypeName name="com.nemesys.crypt.AESEncryptorTest"/>
+<fullyQualifiedTypeName name="javax.crypto.IllegalBlockSizeException"/>
+<fullyQualifiedTypeName name="java.security.NoSuchAlgorithmException"/>
+<fullyQualifiedTypeName name="java.security.InvalidKeyException"/>
+<fullyQualifiedTypeName name="javax.crypto.NoSuchPaddingException"/>
+<fullyQualifiedTypeName name="javax.crypto.BadPaddingException"/>
+<fullyQualifiedTypeName name="java.security.InvalidAlgorithmParameterException"/>
+<fullyQualifiedTypeName name="javax.crypto.Cipher"/>
+<fullyQualifiedTypeName name="javax.crypto.spec.SecretKeySpec"/>
+<fullyQualifiedTypeName name="javax.crypto.spec.IvParameterSpec"/>
+<fullyQualifiedTypeName name="java.io.UnsupportedEncodingException"/>
+<fullyQualifiedTypeName name="java.util.Base64"/>
+<fullyQualifiedTypeName name="org.apache.commons.codec.binary.Base64"/>
+<fullyQualifiedTypeName name="com.nemesys.crypt.AESEncryptor"/>
+<fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="java.util.zip.GZIPOutputStream"/>
+</qualifiedTypeNameHistroy>

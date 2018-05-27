@@ -1,0 +1,16 @@
+/home/rsolano/Documents/workspaces/decrypt/drecypt-console/bin/Debug/drecypt-console.exe
+/home/rsolano/Documents/workspaces/decrypt/drecypt-console/bin/Debug/drecypt-console.pdb
+/home/rsolano/Documents/workspaces/decrypt/drecypt-console/obj/x86/Debug/drecypt-console.csprojResolveAssemblyReference.cache
+/home/rsolano/Documents/workspaces/decrypt/drecypt-console/obj/x86/Debug/drecypt-console.csproj.CoreCompileInputs.cache
+/home/rsolano/Documents/workspaces/decrypt/drecypt-console/obj/x86/Debug/drecypt-console.exe
+/home/rsolano/Documents/workspaces/decrypt/drecypt-console/obj/x86/Debug/drecypt-console.pdb
+/home/rsolano/Documents/workspaces/decrypt/drecypt-console/bin/Debug/Newtonsoft.Json.dll
+/home/rsolano/Documents/workspaces/decrypt/drecypt-console/bin/Debug/Newtonsoft.Json.xml
+/home/rsolano/Documents/workspaces/decrypt/decrypt-console/bin/Debug/drecypt-console.exe
+/home/rsolano/Documents/workspaces/decrypt/decrypt-console/bin/Debug/drecypt-console.pdb
+/home/rsolano/Documents/workspaces/decrypt/decrypt-console/bin/Debug/Newtonsoft.Json.dll
+/home/rsolano/Documents/workspaces/decrypt/decrypt-console/bin/Debug/Newtonsoft.Json.xml
+/home/rsolano/Documents/workspaces/decrypt/decrypt-console/obj/x86/Debug/drecypt-console.csprojResolveAssemblyReference.cache
+/home/rsolano/Documents/workspaces/decrypt/decrypt-console/obj/x86/Debug/drecypt-console.csproj.CoreCompileInputs.cache
+/home/rsolano/Documents/workspaces/decrypt/decrypt-console/obj/x86/Debug/drecypt-console.exe
+/home/rsolano/Documents/workspaces/decrypt/decrypt-console/obj/x86/Debug/drecypt-console.pdb

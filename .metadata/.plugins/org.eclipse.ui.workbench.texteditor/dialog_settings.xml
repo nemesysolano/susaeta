@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="public static" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="public"/>
+			<item value="println"/>
+			<item value="128"/>
+			<item value="stringToKey"/>
+			<item value="create"/>
+			<item value="&quot;AES&quot;"/>
+			<item value="&quot;AES/CBC/PKCS5PADDING&quot;"/>
+			<item value="&quot;ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%*()_+-=,&lt;&gt;./[]?&quot;"/>
+			<item value="ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%*()_+-=,&lt;&gt;./[]?&quot;"/>
+		</list>
+		<list key="replacehistory">
+			<item value="public static"/>
+			<item value="SECRET_KEY_SPEC_NAME_NAME"/>
+			<item value="CIPHER_NAME"/>
+			<item value="ALPHA_NUMERIC_STRING"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="350" key="DIALOG_WIDTH"/>
+		<item value="1|Garuda|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="541" key="DIALOG_HEIGHT"/>
+		<item value="1266" key="DIALOG_X_ORIGIN"/>
+		<item value="147" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
